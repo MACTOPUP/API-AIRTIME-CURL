@@ -1,0 +1,1 @@
+curl -X POST "https://mactopup.com/api/make_topup" -d "operatorId=535&amount=5800&phone=44xxxxxxxx&isocode=GB&token=MACTOPUP_xxxxxxxxxxxxxxxxx"
